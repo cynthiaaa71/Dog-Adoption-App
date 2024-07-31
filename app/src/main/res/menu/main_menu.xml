@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/menu_home"
+            android:icon="@drawable/shelter_icon"
+            android:title="@string/home_menu" />
+        <item android:id="@+id/menu_dogs"
+            android:icon="@drawable/search_icon"
+            android:title="@string/AdoptHome"/>
+        <item android:id="@+id/menu_donate"
+            android:icon="@drawable/donate_icon"
+            android:title="@string/DonateHome"/>
+        <item android:id="@+id/menu_visit"
+            android:icon="@drawable/shelter_icon"
+            android:title="@string/VisitHome"/>
+        <item android:id="@+id/menu_volunteer"
+            android:icon="@drawable/volunteer_icon"
+            android:title="@string/VolunteerHome"/>
+    </group>
+    <item android:title="@string/more_menu">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/menu_news"
+                    android:icon="@drawable/news_icon"
+                    android:title="@string/NewsHome"/>
+                <item android:id="@+id/menu_team"
+                    android:icon="@drawable/team_icon"
+                    android:title="@string/TeamHome"/>
+
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/communication_menu">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/menu_share"
+                    android:icon="@drawable/news_icon"
+                    android:title="@string/share_menu"/>
+                <item android:id="@+id/menu_rate"
+                    android:icon="@drawable/news_icon"
+                    android:title="@string/rate_menu"/>
+
+            </group>
+        </menu>
+    </item>
+</menu>

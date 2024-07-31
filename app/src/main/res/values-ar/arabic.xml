@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">القائمة</string>
+    <string name="title">مركز تبني الكلاب</string>
+    <string name="subtitle">ابحث عن صديق فروي!</string>
+    <string name="findDogSearch">ابحث عن كلب</string>
+    <string name="goToUpload_btn">هل لديك كلب للتبني؟ انقر هنا</string>
+    <string name="subtitle_upload">املأ معلومات حول كلبك</string>
+    <string name="breedHint">السلالة</string>
+    <string name="AgeHint">العمر</string>
+    <string name="colorHint">اللون</string>
+    <string name="MaleRadio">ذكر</string>
+    <string name="FemaleRadio">أنثى</string>
+    <string name="uploadBtn">رفع</string>
+    <string name="AdoptHome">تبني كلب</string>
+    <string name="DonateHome">تبرع</string>
+    <string name="VisitHome">زيارة الملجأ</string>
+    <string name="VolunteerHome">التطوع</string>
+    <string name="NewsHome">أخبار</string>
+    <string name="TeamHome">الفريق</string>
+    <string name="newsTitle1">جمع التبرعات لكلاب الملجأ</string>
+    <string name="newsTitle2">فرص التطوع</string>
+    <string name="newsTitle3">يوم مليء بالمرح للكلاب والمتبنين</string>
+    <string name="newsTitle4">يوم في ملجأنا</string>
+    <string name="newsTitle5">كلاب مميزة جاهزة للمنازل المحبة</string>
+    <string name="newsTitle6">فعاليات أسبوعية تربط بين الكلاب والمتبنين</string>
+    <string name="newsTitle7">الشركات المحلية تدعم التبني</string>
+    <string name="newsTitle8">التبني الأخير يسجل رقمًا قياسيًا</string>
+    <string name="newsTitle9">فعاليات أسبوعية تعرض الكلاب بحاجة إلى منازل</string>
+    <string name="newsTitle10">حدث يعزز الوعي ويجمع التبرعات لتبني الكلاب</string>
+    <string name="nav_puppies">جراء</string>
+    <string name="nav_trained">مدربة</string>
+    <string name="nav_small">سلالة صغيرة</string>
+    <string name="nav_large">سلالة كبيرة</string>
+    <string name="dogs_adoptdog">تبني كلب</string>
+    <string name="home_menu">الرئيسية</string>
+    <string name="more_menu">المزيد</string>
+    <string name="communication_menu">التواصل</string>
+    <string name="share_menu">مشاركة</string>
+    <string name="rate_menu">قيمنا</string>
+    <string name="menu_drawer_open">فتح الدرج</string>
+    <string name="menu_drawer_close">إغلاق الدرج</string>
+</resources>

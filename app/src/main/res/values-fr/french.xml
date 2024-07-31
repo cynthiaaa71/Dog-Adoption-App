@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="title">Centre d'Adoption de Chiens</string>
+    <string name="subtitle">Trouvez votre ami à fourrure !</string>
+    <string name="findDogSearch">Trouver un chien</string>
+    <string name="goToUpload_btn">Avez-vous un chien à donner en adoption ? Cliquez ici</string>
+    <string name="subtitle_upload">Remplissez les informations sur votre chien</string>
+    <string name="breedHint">Race</string>
+    <string name="AgeHint">Âge</string>
+    <string name="colorHint">Couleur</string>
+    <string name="MaleRadio">Mâle</string>
+    <string name="FemaleRadio">Femelle</string>
+    <string name="uploadBtn">Télécharger</string>
+    <string name="AdoptHome">Adopter un chien</string>
+    <string name="DonateHome">Donner</string>
+    <string name="VisitHome">Visiter le refuge</string>
+    <string name="VolunteerHome">Volontaire</string>
+    <string name="NewsHome">Actualités</string>
+    <string name="TeamHome">Équipe</string>
+    <string name="newsTitle1">Collecte de fonds pour les chiens du refuge</string>
+    <string name="newsTitle2">Opportunités de bénévolat</string>
+    <string name="newsTitle3">Une journée amusante pour les chiens et les adoptants</string>
+    <string name="newsTitle4">Une journée dans notre refuge</string>
+    <string name="newsTitle5">Chiens à adopter prêts pour des foyers aimants</string>
+    <string name="newsTitle6">Événements hebdomadaires reliant chiens et adoptants</string>
+    <string name="newsTitle7">Entreprises locales soutenant l'adoption</string>
+    <string name="newsTitle8">Les dernières adoptions atteignent un record</string>
+    <string name="newsTitle9">Événements hebdomadaires mettant en avant des chiens en recherche de foyers</string>
+    <string name="newsTitle10">Événement sensibilisant et collectant des fonds pour l'adoption de chiens</string>
+    <string name="nav_puppies">Chiots</string>
+    <string name="nav_trained">Éduqués</string>
+    <string name="nav_small">Petites races</string>
+    <string name="nav_large">Grandes races</string>
+    <string name="dogs_adoptdog">Adopter un chien</string>
+    <string name="home_menu">Accueil</string>
+    <string name="more_menu">Plus</string>
+    <string name="communication_menu">Communication</string>
+    <string name="share_menu">Partager</string>
+    <string name="rate_menu">Évaluez-nous</string>
+    <string name="menu_drawer_open">Ouvrir le tiroir</string>
+    <string name="menu_drawer_close">Fermer le tiroir</string>
+</resources>

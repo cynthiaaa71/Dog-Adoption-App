@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="title">Dog Adoption Center</string>
+    <string name="subtitle">Find your furry friend!</string>
+    <string name="findDogSearch">Find a Dog</string>
+    <string name="goToUpload_btn">Do you have a dog up for adoption? Click here</string>
+    <string name="subtitle_upload">Fill out the info about your dog</string>
+    <string name="breedHint">Breed</string>
+    <string name="AgeHint">Age</string>
+    <string name="colorHint">Color</string>
+    <string name="MaleRadio">Male</string>
+    <string name="FemaleRadio">Female</string>
+    <string name="uploadBtn">Upload</string>
+    <string name="AdoptHome">Adopt Dog</string>
+    <string name="DonateHome">Donate</string>
+    <string name="VisitHome">Visit Shelter</string>
+    <string name="VolunteerHome">Volunteer</string>
+    <string name="NewsHome">News</string>
+    <string name="TeamHome">Team</string>
+    <string name="newsTitle1">Fund Raising for Shelter Dogs</string>
+    <string name="newsTitle2">Volunteer Opportunities</string>
+    <string name="newsTitle3">A Fun-Filled Day for Dogs and Adopters</string>
+    <string name="newsTitle4">A Day at our shelter</string>
+    <string name="newsTitle5">Featured Dogs Ready for Loving Homes</string>
+    <string name="newsTitle6">Weekly Events Connecting Dogs and Adopters</string>
+    <string name="newsTitle7">Local Businesses Supporting Adoption</string>
+    <string name="newsTitle8">Recent Adoptions Reach Record High</string>
+    <string name="newsTitle9">Weekly Events Showcase Dogs in Need of Homes</string>
+    <string name="newsTitle10">Event Raises Awareness and Funds for Dog Adoption</string>
+    <string name="nav_puppies">Puppies</string>
+    <string name="nav_trained">Trained</string>
+    <string name="nav_small">Small Breed</string>
+    <string name="nav_large">Large Breed</string>
+    <string name="dogs_adoptdog">Adopt a Dog</string>
+    <string name="home_menu">Home</string>
+    <string name="more_menu">More</string>
+    <string name="communication_menu">Communication</string>
+    <string name="share_menu">Share</string>
+    <string name="rate_menu">Rate Us</string>
+    <string name="menu_drawer_open">Drawer Open</string>
+    <string name="menu_drawer_close">Drawer Close</string>
+
+</resources>
